@@ -8,7 +8,7 @@ The workshop combines presentations, and demonstrations, to reinforce knowledge 
 
 ## Day 1
 
-###09:00 - 10:45 
+### 09:00 - 10:45 
 Welcome and Introductions
 Sales Motion and Getting the Technical Win (GTM Strategy)
 Ecosystem Overview
