@@ -15,7 +15,7 @@ The workshop combines presentations, and demonstrations, to reinforce knowledge 
 ### 10:45 - 12:00
 + Customer Virtualisation Journey
 ### 12:00 - 13:00 Lunch
-###13:00 - 14:45
+### 13:00 - 14:45
 + Establishing Credibility and Positioning a Workshop
 + Proving our credibility through getting hands on
 ### 14:45 - 15:00 BREAK
